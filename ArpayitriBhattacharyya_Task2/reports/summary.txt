@@ -1,0 +1,39 @@
+Unemployment Analysis with Python
+
+Dataset size: 741 rows and 11 columns
+Date range: 2019-05-31 to 2020-06-30
+Regions covered: 28
+
+Overall average unemployment rate: 11.79%
+Overall average labour participation rate: 42.63%
+
+Highest unemployment observation:
+- Region: Puducherry
+- Area: Urban
+- Date: 2020-04-30
+- Rate: 76.74%
+
+Lowest unemployment observation:
+- Region: Puducherry
+- Area: Rural
+- Date: 2019-05-31
+- Rate: 0.00%
+
+Top 5 regions by average unemployment rate:
+region
+Tripura             28.350357
+Haryana             26.283214
+Jharkhand           20.585000
+Bihar               18.918214
+Himachal Pradesh    18.540357
+
+Average unemployment by area:
+area
+Rural    10.324791
+Urban    13.166614
+
+Covid-period comparison:
+- Before March 2020 average: 9.51%
+- March to June 2020 average: 17.77%
+- Welch t-test statistic: -7.5168
+- p-value: 0.000000
